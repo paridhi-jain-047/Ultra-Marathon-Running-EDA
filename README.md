@@ -3,3 +3,7 @@ This repo contains the Exploratory Data Analysis with Python pandas, and seaborn
 
 You can download the dataset from Kaggle on this:
 https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running
+
+## Skills Used
+1. Pandas:- For Data Mining
+2. Seaborn:- For Charts and Graphs
